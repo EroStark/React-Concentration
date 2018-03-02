@@ -1,0 +1,12 @@
+{
+  "name": "concentration",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/yp0q9vqx9",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
